@@ -17,8 +17,7 @@ Currently, I have started with **ArrayList** problems and will add more topics g
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sakshi1169/DSA-Repo.git
-2.Open the project in IntelliJ IDEA or any Java IDE.
-3.Run the Java files under the ArrayList/ folder.
+2.Open the project in IntelliJ IDEA or any Java IDE , Run the Java files under the ArrayList/ folder.
 
 
 ---
@@ -29,5 +28,4 @@ I am a final Computer Engineering student practicing DSA to strengthen problem-s
 ---
 📌 Notes
 
--All solutions are implemented in Java.
--Contributions and suggestions are welcome! 😊
+-All solutions are implemented in Java and Contributions and suggestions are welcome! 😊
