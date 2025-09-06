@@ -21,13 +21,7 @@ Currently, I have started with **ArrayList** problems and will add more topics g
 
 3.Run the Java files under the ArrayList/ folder.
 ---
-DSA-Repo/
-├─ ArrayList/
-│   ├─ Problem1.java
-│   ├─ Problem2.java
-│   └─ ...
-└─ (Other Topics will be added later)
----
+
 👩‍💻 About Me
 
 I am a final Computer Engineering student practicing DSA to strengthen problem-solving skills and prepare for placements and competitive coding.
