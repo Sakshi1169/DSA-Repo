@@ -1,4 +1,4 @@
-package ArrayList;
+package Leetcode.ArrayList;
 import java.util.*;
 public class ZigZagConversion {
     public String convert(String s, int numRows) {

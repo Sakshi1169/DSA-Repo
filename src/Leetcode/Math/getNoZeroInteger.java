@@ -1,4 +1,4 @@
-package Math;
+package Leetcode.Math;
 import java.util.*;
 class solution
 {
