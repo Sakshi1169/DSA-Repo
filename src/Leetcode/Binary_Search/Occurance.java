@@ -1,5 +1,5 @@
 package Leetcode.Binary_Search;
-//leetcode -34
+//leetcode - 34
 //binary search
 import java.util.Arrays;
 
@@ -52,10 +52,10 @@ class Solution {
 
 public class Occurance {
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        Solution sol = new Solution(); // ✅ Fixed (capital S)
 
-        int[] nums = {5, 7, 7, 8, 8, 10}; // single input array
-        int target = 8; // single target
+        int[] nums = {5, 7, 7, 8, 8, 10};
+        int target = 8;
 
         int[] result = sol.searchRange(nums, target);
         System.out.println("Target range: " + Arrays.toString(result));
