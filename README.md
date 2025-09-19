@@ -7,11 +7,7 @@ Currently, I have started with **ArrayList** problems and will add more topics g
 
 ---
 
-## 🧩 Topics Covered
-- **ArrayList** ✅
-- *(More topics coming soon: Arrays, LinkedList, Recursion, etc.)*
 
----
 
 ## 🚀 How to Run
 1. Clone the repository:
