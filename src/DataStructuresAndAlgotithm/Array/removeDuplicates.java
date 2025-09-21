@@ -1,4 +1,4 @@
-package Leetcode.Array;
+package DataStructuresAndAlgotithm.Array;
 class solution {
     public int removeDuplicates(int[] nums) {
         if(nums.length==0) return 0;

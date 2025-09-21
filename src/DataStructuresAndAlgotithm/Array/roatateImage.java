@@ -1,4 +1,4 @@
-package Leetcode.Array;
+package DataStructuresAndAlgotithm.Array;
 class solution1 {
     //step-1  transpose
     //step-2  reverse

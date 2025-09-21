@@ -1,4 +1,4 @@
-package Leetcode.Binary_Search;
+package DataStructuresAndAlgotithm.Binary_Search;
 //leetcode 240 --> StairCase Search
 class solution {
     public boolean searchMatrix(int[][] matrix, int target) {

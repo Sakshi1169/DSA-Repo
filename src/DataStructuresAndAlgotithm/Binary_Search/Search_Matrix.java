@@ -1,4 +1,4 @@
-package Leetcode.Binary_Search;
+package DataStructuresAndAlgotithm.Binary_Search;
 
 //leetcode - 74
 class Result {

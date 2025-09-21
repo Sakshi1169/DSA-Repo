@@ -1,4 +1,4 @@
-package Leetcode.Binary_Search;
+package DataStructuresAndAlgotithm.Binary_Search;
 
 // Modified Binary Search in Rotated Sorted Array
 //leetcode 33

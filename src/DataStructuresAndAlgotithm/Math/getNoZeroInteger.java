@@ -1,4 +1,4 @@
-package Leetcode.Math;
+package DataStructuresAndAlgotithm.Math;
 import java.util.*;
 class solution
 {
