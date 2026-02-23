@@ -1,26 +1,22 @@
 package DataStructuresAndAlgotithm.Sorting;
-//get the minimum(select) and swap it from starting index
-public class SelectionSort {
-    public static void selectionSort(int arr[])
+
+
+
+public class InsertionSort {
+    public static void insertionSort(int arr[])
     {
         int n=arr.length;
-        for(int i=0;i<n-1;i++)
+        for(int i=1;i<n;i++)
         {
-            int minIndex=i;
-            for(int j=i+1;j<n;j++)
+            int key=arr[i];
+            int j=i-1;
+            while (j>=0 && arr[j]>key)
             {
-                if(arr[j]<arr[minIndex])
-                {
-                    minIndex=j;
-                }
-            }
-            if(minIndex!=i)
-            {
-                int temp=arr[i];
-                arr[i]=arr[minIndex];
-                arr[minIndex]=temp;
+                arr[j+1]=arr[j];
+                j--;
 
             }
+            arr[j+1]=key;
         }
 
     }
@@ -37,7 +33,7 @@ public class SelectionSort {
         System.out.println("originl arr: ");
         printArray(arr);
         System.out.println("Array after sorting");
-        selectionSort(arr);
+        insertionSort(arr);
         printArray(arr);
     }
 }
